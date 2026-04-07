@@ -39,12 +39,12 @@ Example VM options:
 Locate and run the Main class to start the game.
 
 
-### 📌 Development Notes
+## 📌 Development Notes
 * **Focus:** Core game logic and UI implementation using JavaFX.
 
 * **Purpose:** Developed as a learning project for GUI design and event-driven programming.
 
 
-
+---
 **👤 Author**
 **Sim Pei Jun**
