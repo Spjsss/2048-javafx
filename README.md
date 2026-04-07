@@ -45,6 +45,5 @@ Locate and run the Main class to start the game.
 * **Purpose:** Developed as a learning project for GUI design and event-driven programming.
 
 
----
 **👤 Author**
 **Sim Pei Jun**
