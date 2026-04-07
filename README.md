@@ -23,7 +23,7 @@ A sleek, functional clone of the popular **2048 puzzle game** built using **Java
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/Spjsss/2048-javafx.git]
+git clone https://github.com/Spjsss/2048-javafx.git
 ```
 ### 2. Open the project
 Open the project in an IDE such as IntelliJ IDEA, NetBeans, or VS Code.
