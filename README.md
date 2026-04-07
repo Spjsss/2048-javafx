@@ -3,6 +3,7 @@
 A sleek, functional clone of the popular **2048 puzzle game** built using **Java** and **JavaFX**. This project focuses on implementing core game loop logic, matrix manipulation, and responsive GUI event handling.
 
 
+
 ## ✨ Key Features
 * **Tile Merging Logic:** Custom algorithm to handle tile collisions, additions, and animations based on the original 2048 rules.
 * **Score Tracking System:** Real-time scoring that updates instantly as tiles are merged.
@@ -10,10 +11,12 @@ A sleek, functional clone of the popular **2048 puzzle game** built using **Java
 * **Modern UI:** A clean, grid-based interface built with JavaFX layouts and CSS styling.
 
 
+
 ## 🛠️ Technologies Used
 * **Language:** Java
 * **Framework:** JavaFX (GUI)
 * **Tools:** IDE (IntelliJ IDEA / NetBeans / VS Code)
+
 
 
 ## 🚀 How to Run
@@ -35,10 +38,13 @@ Example VM options:
 ### 4. Run the application
 Locate and run the Main class to start the game.
 
+
 ### 📌 Development Notes
 * **Focus:** Core game logic and UI implementation using JavaFX.
 
 * **Purpose:** Developed as a learning project for GUI design and event-driven programming.
+
+
 
 **👤 Author**
 **Sim Pei Jun**
